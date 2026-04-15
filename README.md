@@ -22,7 +22,9 @@ Stone
 Previous research supports the use of deep learning in medical imaging:
 
 Chen et al. (2020): Achieved 90%+ accuracy using CNN on CT images
+
 Hussein et al. (2021): Used transfer learning (VGG16, ResNet) for ultrasound images
+
 Mishra et al. (2022): Improved accuracy using CNN on small datasets
 
 These studies show that CNN models are highly effective for medical image classification.
