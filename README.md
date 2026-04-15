@@ -16,6 +16,7 @@ This project uses a Convolutional Neural Network (CNN) to automatically classify
 
 Normal
 Stone
+
 📚 Literature Review
 
 Previous research supports the use of deep learning in medical imaging:
@@ -27,6 +28,7 @@ Mishra et al. (2022): Improved accuracy using CNN on small datasets
 These studies show that CNN models are highly effective for medical image classification.
 
 📊 Dataset Overview
+
 Source: Mendeley Data – Kidney Ultrasound Images
 Total Images: 9,416
 Normal: 4,414
@@ -36,6 +38,7 @@ Training: 80%
 Validation: 10%
 Testing: 10%
 Image Size: 150 × 150 pixels
+
 🏗️ Model Architecture
 
 The CNN model consists of:
@@ -58,27 +61,34 @@ Testing Accuracy: ~98–99%
 📉 Performance Graphs
 Training vs Validation Accuracy
 Training vs Validation Loss
+
 ✅ Conclusion
 
 This project demonstrates that a CNN model can accurately classify kidney ultrasound images.
 
 🔑 Key Takeaways
+
 Achieved ~99% validation accuracy
 Lightweight and fast model
 Requires minimal preprocessing
 Can be integrated into:
 Medical diagnostic systems
 Mobile healthcare applications
+
 🚀 Future Work
+
 Use larger and more diverse datasets
 Apply transfer learning (e.g., ResNet, VGG16)
 Deploy model as a web or mobile application
 Improve real-time prediction performance
+
 🛠️ Technologies Used
+
 Python
 TensorFlow / Keras
 NumPy
 Matplotlib
+
 📬 Contact
 
 Shahzad Ali
